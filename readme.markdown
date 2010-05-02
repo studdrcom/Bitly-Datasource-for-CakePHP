@@ -19,3 +19,7 @@ http://code.google.com/p/bitly-api/wiki/ApiDocumentation
          }
       }
 	?>
+
+#Contributors
+- jonathanbradley
+- josegonzalez
